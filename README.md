@@ -1,2 +1,7 @@
-# Live-streaming-using-MPEG_DASH-protocol
-Final Project -Work in progress
+## BinaryJS Clients
+
+These files are available via cdn
+
+http://cdn.binaryjs.com/0/binary.js
+
+http://cdn.binaryjs.com/0/binary.min.js
